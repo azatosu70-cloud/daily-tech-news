@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-12",
+  "source_title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "source_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "term": "AIエージェント",
+  "post_text": "ユナイテッド航空が、AIに代わりに航空券を予約させることを禁止した。AIが自動操作することで安全規則に違反するおそれがあるとの理由。\n\n📝AIエージェント…ユーザーの代わりにサービスを操作するAI。便利に見えて、管理する側は必ずしも歓迎していない。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "AIが旅行を\n予約するのを\n航空会社が禁止",
+        "narration": "AIが代わりに予約しようとしたら、航空会社に止められた話。",
+        "reading": "エーアイが代わりに予約しようとしたら、航空会社に止められた話。"
+      },
+      {
+        "kind": "news",
+        "text": "ユナイテッド航空\nAIエージェントによる\n予約を禁止",
+        "narration": "ユナイテッド航空が、AIエージェントによる航空券の予約を禁止した。",
+        "reading": "ユナイテッド航空が、エーアイエージェントによる航空券の予約を禁止した。"
+      },
+      {
+        "kind": "news",
+        "text": "禁止の理由は\n安全規則への\n違反リスク",
+        "narration": "AIが自動で操作すると、航空当局のルールに違反する可能性があるとした。",
+        "reading": "エーアイが自動で操作すると、航空当局のルールに違反する可能性があるとした。"
+      },
+      {
+        "kind": "term",
+        "text": "ユーザーの代わりに\nサービスを操作\nするAI",
+        "narration": "あなたの代わりにウェブサービスを操作するAIのこと。",
+        "reading": "あなたの代わりにウェブサービスを操作するエーアイのこと。"
+      },
+      {
+        "kind": "tip",
+        "text": "便利なAIでも\n管理する側の\nルールがある",
+        "narration": "便利な技術でも、管理する側のルールに合わないと使えなくなることがある。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。",
+        "reading": "毎日ひとつ、アイティーがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
