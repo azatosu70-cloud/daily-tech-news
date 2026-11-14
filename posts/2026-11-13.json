@@ -38,5 +38,10 @@
         "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
       }
     ]
+  },
+  "labels": {
+    "category": "ネットサービス・SNS",
+    "hook_type": "身近な損得",
+    "mode": "backfill"
   }
 }
