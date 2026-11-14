@@ -42,5 +42,10 @@
         "reading": "毎日ひとつ、アイティーがわかるようになる。フォローしてね。"
       }
     ]
+  },
+  "labels": {
+    "category": "AI",
+    "hook_type": "未来の予告",
+    "mode": "backfill"
   }
 }
