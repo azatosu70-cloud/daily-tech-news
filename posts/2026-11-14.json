@@ -32,5 +32,10 @@
         "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
       }
     ]
+  },
+  "labels": {
+    "category": "科学・宇宙・エネルギー",
+    "hook_type": "意外な組み合わせ",
+    "mode": "backfill"
   }
 }
