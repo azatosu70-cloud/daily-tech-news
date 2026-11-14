@@ -39,5 +39,10 @@
         "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
       }
     ]
+  },
+  "labels": {
+    "category": "お金・ビジネス",
+    "hook_type": "意外な数字",
+    "mode": "backfill"
   }
 }
