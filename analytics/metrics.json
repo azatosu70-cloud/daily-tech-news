@@ -10,9 +10,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 7331,
-      "age_hours": 100,
+      "age_hours": 113,
       "final": false,
-      "fetched_at": "2026-11-15T09:20:07+00:00"
+      "fetched_at": "2026-11-15T23:10:28+00:00"
     }
   },
   "2026-11-12": {
@@ -36,9 +36,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4081,
-      "age_hours": 80,
+      "age_hours": 94,
       "final": false,
-      "fetched_at": "2026-11-15T09:20:05+00:00"
+      "fetched_at": "2026-11-15T23:10:26+00:00"
     }
   },
   "2026-11-13": {
@@ -52,9 +52,9 @@
       "shares": 0,
       "total_interactions": 3,
       "ig_reels_avg_watch_time": 9018,
-      "age_hours": 41,
+      "age_hours": 55,
       "final": false,
-      "fetched_at": "2026-11-15T09:20:04+00:00"
+      "fetched_at": "2026-11-15T23:10:24+00:00"
     },
     "x": {
       "impressions": 0,
@@ -78,10 +78,25 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 6729,
-      "age_hours": 32,
+      "age_hours": 46,
       "final": false,
-      "fetched_at": "2026-11-15T09:20:01+00:00"
+      "fetched_at": "2026-11-15T23:10:21+00:00"
     }
   },
-  "2026-11-15": {}
+  "2026-11-15": {
+    "ig": {
+      "permalink": "https://www.instagram.com/reel/DfwhkG9DvxG/",
+      "likes": 0,
+      "comments": 0,
+      "views": 120,
+      "reach": 105,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4310,
+      "age_hours": 13,
+      "final": false,
+      "fetched_at": "2026-11-15T23:10:19+00:00"
+    }
+  }
 }
