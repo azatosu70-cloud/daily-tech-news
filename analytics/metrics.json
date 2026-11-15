@@ -4,15 +4,15 @@
       "permalink": "https://www.instagram.com/reel/DflwUBCjosL/",
       "likes": 0,
       "comments": 0,
-      "views": 140,
+      "views": 141,
       "reach": 125,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 7375,
-      "age_hours": 79,
+      "ig_reels_avg_watch_time": 7331,
+      "age_hours": 93,
       "final": false,
-      "fetched_at": "2026-11-14T12:38:32+00:00"
+      "fetched_at": "2026-11-15T02:14:55+00:00"
     }
   },
   "2026-11-12": {
@@ -36,25 +36,35 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4081,
-      "age_hours": 59,
+      "age_hours": 73,
       "final": false,
-      "fetched_at": "2026-11-14T12:38:31+00:00"
+      "fetched_at": "2026-11-15T02:14:54+00:00"
     }
   },
   "2026-11-13": {
     "ig": {
       "permalink": "https://www.instagram.com/reel/DfsEiw1AZPW/",
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
-      "views": 1570,
-      "reach": 1320,
+      "views": 1727,
+      "reach": 1436,
       "saved": 1,
       "shares": 0,
-      "total_interactions": 2,
-      "ig_reels_avg_watch_time": 9114,
-      "age_hours": 20,
+      "total_interactions": 3,
+      "ig_reels_avg_watch_time": 9023,
+      "age_hours": 34,
       "final": false,
-      "fetched_at": "2026-11-14T12:38:30+00:00"
+      "fetched_at": "2026-11-15T02:14:52+00:00"
+    },
+    "x": {
+      "impressions": 0,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "quotes": 0,
+      "age_hours": 50,
+      "fetched_at": "2026-11-15T02:14:47+00:00"
     }
   },
   "2026-11-14": {
@@ -62,15 +72,16 @@
       "permalink": "https://www.instagram.com/reel/DftBfCYjc4A/",
       "likes": 0,
       "comments": 0,
-      "views": 187,
-      "reach": 162,
+      "views": 285,
+      "reach": 253,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 6740,
-      "age_hours": 11,
+      "ig_reels_avg_watch_time": 6729,
+      "age_hours": 25,
       "final": false,
-      "fetched_at": "2026-11-14T12:38:29+00:00"
+      "fetched_at": "2026-11-15T02:14:51+00:00"
     }
-  }
+  },
+  "2026-11-15": {}
 }
