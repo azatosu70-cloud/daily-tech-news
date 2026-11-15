@@ -10,9 +10,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 7331,
-      "age_hours": 113,
+      "age_hours": 114,
       "final": false,
-      "fetched_at": "2026-11-15T23:10:28+00:00"
+      "fetched_at": "2026-11-15T23:33:14+00:00"
     }
   },
   "2026-11-12": {
@@ -38,7 +38,7 @@
       "ig_reels_avg_watch_time": 4081,
       "age_hours": 94,
       "final": false,
-      "fetched_at": "2026-11-15T23:10:26+00:00"
+      "fetched_at": "2026-11-15T23:33:13+00:00"
     }
   },
   "2026-11-13": {
@@ -54,7 +54,7 @@
       "ig_reels_avg_watch_time": 9018,
       "age_hours": 55,
       "final": false,
-      "fetched_at": "2026-11-15T23:10:24+00:00"
+      "fetched_at": "2026-11-15T23:33:11+00:00"
     },
     "x": {
       "impressions": 0,
@@ -80,7 +80,7 @@
       "ig_reels_avg_watch_time": 6729,
       "age_hours": 46,
       "final": false,
-      "fetched_at": "2026-11-15T23:10:21+00:00"
+      "fetched_at": "2026-11-15T23:33:10+00:00"
     }
   },
   "2026-11-15": {
@@ -96,7 +96,23 @@
       "ig_reels_avg_watch_time": 4310,
       "age_hours": 13,
       "final": false,
-      "fetched_at": "2026-11-15T23:10:19+00:00"
+      "fetched_at": "2026-11-15T23:33:09+00:00"
+    }
+  },
+  "2026-11-16": {
+    "ig": {
+      "permalink": "https://www.instagram.com/reel/Dfx-Abngbn4/",
+      "likes": 0,
+      "comments": 0,
+      "views": 0,
+      "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "age_hours": 0,
+      "final": false,
+      "fetched_at": "2026-11-15T23:33:07+00:00"
     }
   }
 }
