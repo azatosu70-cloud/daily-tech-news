@@ -1,0 +1,9 @@
+title: ITニュースレポート
+exclude:
+  - posts
+  - analytics
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
