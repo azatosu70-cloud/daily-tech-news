@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-17",
+  "source_title": "CMU Opens Access to Top Computer Science Classes Through Free CS Learn Platform",
+  "source_url": "https://www.cmu.edu/news/stories/archives/2026/november/cmu-opens-access-to-top-computer-science-classes-through-free-cs-learn-platform",
+  "term": "オープンコースウェア",
+  "labels": {"category": "その他", "hook_type": "意外な組み合わせ", "mode": "explore"},
+  "post_text": "カーネギーメロン大学（CMU）が、CSの授業をYouTubeで無料公開し始めた。今週は1日1コース、来年1月にはさらに追加される。\n\n📝オープンコースウェア…大学が授業動画を無料で公開する取り組み。まずタイトルを眺めるだけでも、ITの世界の広さが感じられる。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "世界トップのCS大学の\n授業が\nYouTubeで無料",
+        "narration": "世界トップのコンピューターサイエンス大学の授業が、YouTubeで0円で見られるようになった。",
+        "reading": "世界トップのコンピューターサイエンス大学の授業が、ユーチューブで0円で見られるようになった。"
+      },
+      {
+        "kind": "news",
+        "text": "カーネギーメロン大学が\n「CS Learn」を開設\n今週から順次配信",
+        "narration": "カーネギーメロン大学がCSラーンを開設。今週は1日1コース、2027年1月にはさらに追加予定。"
+      },
+      {
+        "kind": "news",
+        "text": "これまでCMUの\n学生しか見られ\nなかった授業",
+        "narration": "もともとCMU学内でのみ利用できた録画授業を、今回一般向けに開放した。",
+        "reading": "もともとシーエムユー学内でのみ利用できた録画授業を、今回一般向けに開放した。"
+      },
+      {
+        "kind": "term",
+        "text": "大学が授業動画を\n無料公開する\n取り組み",
+        "narration": "MITが2001年に始め、今はトップ大学の多くが参加している。大学の授業が誰でもタダで見られる仕組みのこと。"
+      },
+      {
+        "kind": "tip",
+        "text": "タイトルを眺めるだけでも\nITの全体像が\n見えてくる",
+        "narration": "動画のタイトルを眺めるだけでも、ITの世界がどんな話題でできているかわかる。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
