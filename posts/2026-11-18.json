@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-18",
+  "source_title": "Waymo suspends freeway rides nationwide after California DMV order",
+  "source_url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+  "term": "自動運転",
+  "labels": {"category": "スマホ・生活", "hook_type": "問いかけ", "mode": "explore"},
+  "post_text": "ロボタクシーって安全？　Waymoの自動運転タクシーが工事中の道に繰り返し入り込み、カリフォルニア当局に高速の走行を禁止された。全米15都市でも自主的に停止している。\n\n📝自動運転…人が操作しなくてもAIとセンサーが走らせる車。工事現場への対応がまだ課題として残る。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "ロボタクシー\n高速道路を\n走れる？",
+        "narration": "ロボタクシー、高速道路を走れると思う？"
+      },
+      {
+        "kind": "news",
+        "text": "工事現場に\n繰り返し侵入\n全米で禁止に",
+        "narration": "Waymoのロボタクシーが工事中の道に繰り返し入り込み、全米の高速から締め出された。",
+        "reading": "ウェイモのロボタクシーが工事中の道に繰り返し入り込み、全米の高速から締め出された。"
+      },
+      {
+        "kind": "term",
+        "text": "人の操作なしで\nAIが走らせる車",
+        "narration": "自動運転は、AIとセンサーで人の操作なしに走る車のこと。工事現場はまだ苦手。",
+        "reading": "自動運転は、エーアイとセンサーで人の操作なしに走る車のこと。工事現場はまだ苦手。"
+      },
+      {
+        "kind": "tip",
+        "text": "高速は禁止でも\n路上は週50万回\n運行中",
+        "narration": "高速は禁止でも、普通の道では週50万回以上の乗車が続いている。技術は進化中。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。",
+        "reading": "毎日ひとつ、アイティーがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
