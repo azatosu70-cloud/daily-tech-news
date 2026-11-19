@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-19-urgent",
+  "urgent": true,
+  "source_title": "Unauthenticated remote code execution in Nginx",
+  "source_url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+  "term": "脆弱性",
+  "labels": {
+    "category": "セキュリティ",
+    "hook_type": "意外な数字",
+    "mode": "urgent"
+  },
+  "post_text": "世界のWebサイトの約3割で使われているソフト「nginx」に、重大な欠陥が見つかった。特定の設定で使っている場合、外から攻撃されるおそれがある。修正版は公開済み。\n\n📝脆弱性…家の鍵の壊れた部分のようなもの。直す手段がアップデート。スマホやアプリの更新も後回しにしないで。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "Webサイトの\n約3割を支える\nソフトに欠陥",
+        "narration": "世界のWebサイトの約3割で使われているソフトに、重大な欠陥が見つかりました。",
+        "reading": "世界のウェブサイトの約3割で使われているソフトに、重大な欠陥が見つかりました。"
+      },
+      {
+        "kind": "news",
+        "text": "その名は\nnginx\nエンジンエックス",
+        "narration": "名前はnginx。サイトの裏側で、見る人にページを届ける役割をしています。",
+        "reading": "名前はエンジンエックス。サイトの裏側で、見る人にページを届ける役割をしています。"
+      },
+      {
+        "kind": "news",
+        "text": "特定の設定だと\n外から攻撃される\nおそれ",
+        "narration": "特定の設定で使っているサイトは、外から攻撃されるおそれがあり、修正版がすでに公開されています。"
+      },
+      {
+        "kind": "term",
+        "text": "家の鍵の\n壊れた部分の\nようなもの",
+        "narration": "脆弱性とは、家の鍵の壊れた部分のようなもの。それを直す手段がアップデートです。"
+      },
+      {
+        "kind": "tip",
+        "text": "スマホやアプリの\n更新を\n後回しにしない",
+        "narration": "サイトの対応は運営する側の仕事。私たちは、スマホやアプリの更新を後回しにしないことが大切です。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
