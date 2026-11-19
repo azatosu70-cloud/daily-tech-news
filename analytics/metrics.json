@@ -38,7 +38,7 @@
       "ig_reels_avg_watch_time": 4081,
       "age_hours": 167,
       "final": false,
-      "fetched_at": "2026-11-19T00:53:07+00:00"
+      "fetched_at": "2026-11-19T00:57:28+00:00"
     }
   },
   "2026-11-13": {
@@ -54,7 +54,7 @@
       "ig_reels_avg_watch_time": 9012,
       "age_hours": 128,
       "final": false,
-      "fetched_at": "2026-11-19T00:53:06+00:00"
+      "fetched_at": "2026-11-19T00:57:27+00:00"
     },
     "x": {
       "impressions": 0,
@@ -78,9 +78,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 6729,
-      "age_hours": 119,
+      "age_hours": 120,
       "final": false,
-      "fetched_at": "2026-11-19T00:53:04+00:00"
+      "fetched_at": "2026-11-19T00:57:25+00:00"
     },
     "x": {
       "impressions": 0,
@@ -106,7 +106,7 @@
       "ig_reels_avg_watch_time": 4310,
       "age_hours": 87,
       "final": false,
-      "fetched_at": "2026-11-19T00:53:03+00:00"
+      "fetched_at": "2026-11-19T00:57:24+00:00"
     },
     "x": {
       "impressions": 0,
@@ -132,7 +132,7 @@
       "ig_reels_avg_watch_time": 4998,
       "age_hours": 73,
       "final": false,
-      "fetched_at": "2026-11-19T00:53:01+00:00"
+      "fetched_at": "2026-11-19T00:57:23+00:00"
     },
     "x": {
       "impressions": 0,
@@ -156,9 +156,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 2626,
-      "age_hours": 47,
+      "age_hours": 48,
       "final": false,
-      "fetched_at": "2026-11-19T00:52:59+00:00"
+      "fetched_at": "2026-11-19T00:57:21+00:00"
     }
   },
   "2026-11-18": {
@@ -174,7 +174,7 @@
       "ig_reels_avg_watch_time": 4207,
       "age_hours": 21,
       "final": false,
-      "fetched_at": "2026-11-19T00:52:58+00:00"
+      "fetched_at": "2026-11-19T00:57:20+00:00"
     }
   },
   "2026-11-19": {
@@ -190,7 +190,7 @@
       "ig_reels_avg_watch_time": 0,
       "age_hours": 0,
       "final": false,
-      "fetched_at": "2026-11-19T00:52:56+00:00"
+      "fetched_at": "2026-11-19T00:57:18+00:00"
     }
   }
 }
