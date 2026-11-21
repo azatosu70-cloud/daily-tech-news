@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-22",
+  "source_title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+  "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "term": "AIエージェント",
+  "labels": {"category": "ネットサービス・SNS", "hook_type": "問いかけ", "mode": "exploit"},
+  "post_text": "あなたのトーク、AIに読まれても気づけますか？\n\nSignalが、iOS・Android両方でスクリーンショット制限を追加。AIがOSを通じてアプリ画面を読み取れる時代への対応だ。\n\n📝AIエージェント…自分でタスクを判断して動くAI。画面も見て操作できる。設定で制限をオンに。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "あなたのトーク\nAIに読まれても\n気づける？",
+        "narration": "あなたのメッセージ、スマホのAIにこっそり読まれても気づけますか？",
+        "reading": "あなたのメッセージ、スマホのエーアイにこっそり読まれても気づけますか？"
+      },
+      {
+        "kind": "news",
+        "text": "Signalが\nスクショを制限\niOS・Android",
+        "narration": "暗号化アプリSignalが、iOS・Android両方でスクリーンショット制限を追加した",
+        "reading": "暗号化アプリシグナルが、アイオーエス・アンドロイド両方でスクリーンショット制限を追加した"
+      },
+      {
+        "kind": "news",
+        "text": "なぜ制限？\nAIが画面を\n読める時代に",
+        "narration": "AIがOSを通じてアプリ画面を読み取り、暗号化を回避できる恐れがあるため",
+        "reading": "エーアイがオーエスを通じてアプリ画面を読み取り、暗号化を回避できる恐れがあるため"
+      },
+      {
+        "kind": "term",
+        "text": "自分でタスクを\n決めて動くAI\n画面も「見る」",
+        "narration": "AIエージェントとは、自分でタスクを判断して動くAI。画面も見て操作できる",
+        "reading": "エーアイエージェントとは、自分でタスクを判断して動くエーアイ。画面も見て操作できる"
+      },
+      {
+        "kind": "tip",
+        "text": "設定で制限\nをオンに",
+        "narration": "Signalの設定でスクリーンキャプチャ制限をオンにしておくと安心",
+        "reading": "シグナルの設定でスクリーンキャプチャ制限をオンにしておくと安心"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
