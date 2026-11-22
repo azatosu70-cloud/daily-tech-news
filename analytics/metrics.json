@@ -104,9 +104,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4341,
-      "age_hours": 162,
+      "age_hours": 166,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:51+00:00"
+      "fetched_at": "2026-11-22T08:28:36+00:00"
     },
     "x": {
       "impressions": 0,
@@ -130,9 +130,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4962,
-      "age_hours": 148,
+      "age_hours": 153,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:49+00:00"
+      "fetched_at": "2026-11-22T08:28:34+00:00"
     },
     "x": {
       "impressions": 0,
@@ -156,9 +156,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 2626,
-      "age_hours": 122,
+      "age_hours": 127,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:47+00:00"
+      "fetched_at": "2026-11-22T08:28:31+00:00"
     },
     "x": {
       "impressions": 0,
@@ -182,9 +182,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4357,
-      "age_hours": 96,
+      "age_hours": 101,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:45+00:00"
+      "fetched_at": "2026-11-22T08:28:29+00:00"
     },
     "x": {
       "impressions": 0,
@@ -208,9 +208,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 5574,
-      "age_hours": 75,
+      "age_hours": 80,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:43+00:00"
+      "fetched_at": "2026-11-22T08:28:26+00:00"
     },
     "x": {
       "impressions": 0,
@@ -234,9 +234,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4839,
-      "age_hours": 52,
+      "age_hours": 56,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:42+00:00"
+      "fetched_at": "2026-11-22T08:28:25+00:00"
     },
     "x": {
       "impressions": 2,
@@ -260,9 +260,9 @@
       "shares": 0,
       "total_interactions": 0,
       "ig_reels_avg_watch_time": 4339,
-      "age_hours": 24,
+      "age_hours": 29,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:40+00:00"
+      "fetched_at": "2026-11-22T08:28:23+00:00"
     }
   },
   "2026-11-22": {
@@ -270,15 +270,15 @@
       "permalink": "https://www.instagram.com/reel/DgB3W0GCvje/",
       "likes": 0,
       "comments": 0,
-      "views": 0,
-      "reach": 0,
-      "saved": 0,
+      "views": 43,
+      "reach": 39,
+      "saved": 1,
       "shares": 0,
-      "total_interactions": 0,
-      "ig_reels_avg_watch_time": 0,
-      "age_hours": 0,
+      "total_interactions": 1,
+      "ig_reels_avg_watch_time": 4412,
+      "age_hours": 5,
       "final": false,
-      "fetched_at": "2026-11-22T03:44:39+00:00"
+      "fetched_at": "2026-11-22T08:28:21+00:00"
     }
   }
 }
