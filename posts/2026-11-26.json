@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-26",
+  "source_title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+  "source_url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+  "term": "中古車市場",
+  "labels": {"category": "お金・ビジネス", "hook_type": "意外な数字", "mode": "explore"},
+  "post_text": "製造中止になったテスラのサイバートラック、中古市場で最も売れているトラックに。在庫日数は平均39日で、業界平均（65日）の半分ほど。生産が終わるほど希少価値が上がっている。\n\n📝中古車市場…すでに誰かが使った車が売買される市場のこと。供給が減ると価格が上がることがある。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "製造中止なのに\n売れ行き1位？",
+        "narration": "製造中止になったはずのテスラのサイバートラックが、なぜか今一番売れています。"
+      },
+      {
+        "kind": "news",
+        "text": "サイバートラック\n生産中止でも\n人気は上昇",
+        "narration": "テスラは2026年にサイバートラックの生産を中止。でも中古市場では逆に人気が出ています。"
+      },
+      {
+        "kind": "news",
+        "text": "在庫日数 平均39日\n業界平均は\n65日",
+        "narration": "在庫日数の平均は39日。業界全体の平均65日の、約半分の速さで売れています。",
+        "reading": "在庫日数の平均はさんじゅうくにち。業界全体の平均ろくじゅうごにちの、約半分の速さで売れています。"
+      },
+      {
+        "kind": "term",
+        "text": "需要と供給で\n価格が変わる",
+        "narration": "中古車市場では、供給が減ると希少価値が上がって高くなることもあります。"
+      },
+      {
+        "kind": "tip",
+        "text": "希少モデルは\n今後さらに\n値上がりも",
+        "narration": "サイバートラックの中古価格は今後も上がる可能性があります。自分の生活と重ねてみてください。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
