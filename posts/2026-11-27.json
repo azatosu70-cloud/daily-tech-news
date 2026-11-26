@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-27",
+  "source_title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "term": "輸出規制",
+  "labels": {"category": "お金・ビジネス", "hook_type": "未来の予告", "mode": "explore"},
+  "post_text": "NvidiaがASEAN向けAIサーバー出荷を停止。中国企業が現地のデータセンター経由で米国禁止のNvidiaチップを遠隔利用する抜け穴を米国が塞いだのが背景。AIチップも「国が管理する品目」になってきた。\n\n📝輸出規制…「特定の国にはこれを売るな」と国が決めるルール。半導体も対象に。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "AIチップが\n国の管理品目\nになってきた",
+        "narration": "AIを動かすチップの輸出が、国の規制で止まる時代が始まっています。",
+        "reading": "エーアイチップが、国の管理品目になってきた"
+      },
+      {
+        "kind": "news",
+        "text": "NvidiaがASEAN向け\nAIサーバー出荷を\n一時停止",
+        "narration": "Nvidiaが東南アジア向けのAIサーバーの出荷を一時停止しました。",
+        "reading": "エヌビディアがアセアン向けAIサーバー出荷を一時停止"
+      },
+      {
+        "kind": "news",
+        "text": "中国が東南アジア\n経由でチップを\n遠隔利用していた",
+        "narration": "中国企業が東南アジアのデータセンター経由で禁止チップを使う抜け穴があり、米国が今月塞ぎました。",
+        "reading": "中国がアセアン経由でNvidiaチップを遠隔利用していた"
+      },
+      {
+        "kind": "term",
+        "text": "国が「売るな」\nと決めた品目を\n守るルール",
+        "narration": "輸出規制は国が特定の品物を別の国に売ることを禁じるルール。兵器や半導体が典型例で、AIチップも対象に。"
+      },
+      {
+        "kind": "tip",
+        "text": "AIサービスの\n機能や値段が\n地政学に左右される",
+        "narration": "これからは、AIを使ったサービスが国際情勢によって変わる可能性があります。身近なAIツールも無関係ではありません。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
