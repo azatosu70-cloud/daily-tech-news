@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-28",
+  "source_title": "First images of the impact of DART asteroid deflection experiment",
+  "source_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+  "term": "小惑星防衛",
+  "labels": {"category": "科学・宇宙・エネルギー", "hook_type": "問いかけ", "mode": "explore"},
+  "post_text": "もし巨大な岩が地球に向かったら、人類は防げる？\n\n2022年にNASAが小惑星に体当たりし軌道を変えた。先週、欧州の探査機Heraが現場で軌道変化を確認。太陽系で人類が天体を動かした初の事例となった。\n\n📝小惑星防衛…地球に向かう岩を探査機でぶつけてコースをずらす技術。DARTで実証済み。",
+  "video": {
+    "scenes": [
+      {
+        "kind": "hook",
+        "text": "もし巨大な岩が\n地球に向かったら\n人類は防げる？",
+        "narration": "もし巨大な岩が地球に向かってきたとき、人類は防ぐことができる？"
+      },
+      {
+        "kind": "news",
+        "text": "NASAが小惑星に\n体当たりして\n軌道を変えた",
+        "narration": "2022年にNASAの探査機が小惑星ディモルフォスに体当たりして、軌道を変えることに成功した。",
+        "reading": "にせんにじゅうにねんにナサのたんさきがしょうわくせいディモルフォスにたいあたりして、きどうをかえることにせいこうした。"
+      },
+      {
+        "kind": "news",
+        "text": "4年後、Heraが\n現場で軌道変化を\n確認した",
+        "narration": "4年後の今年11月、欧州の探査機Heraが現場に到着し、軌道が変わった証拠の画像を公開した。",
+        "reading": "よねんごのことし11がつ、おうしゅうのたんさきヘラがげんばにとうちゃくし、きどうがかわったしょうこのがぞうをこうかいした。"
+      },
+      {
+        "kind": "term",
+        "text": "地球に向かう岩を\n探査機でずらす",
+        "narration": "小惑星防衛とは、地球に近づく岩を探査機でぶつけてコースをずらす取り組みです。"
+      },
+      {
+        "kind": "tip",
+        "text": "DARTで技術は\n実証済み",
+        "narration": "DARTで技術は実証済みです。次の課題は、危ない岩を早めに見つけて備えることです。",
+        "reading": "ダートでぎじゅつはじっしょうずみです。つぎのかだいは、あぶないいわをはやめにみつけてそなえることです。"
+      },
+      {
+        "kind": "outro",
+        "text": "毎日ひとつ、\nITがわかるようになる",
+        "narration": "毎日ひとつ、ITがわかるようになる。フォローしてね。"
+      }
+    ]
+  }
+}
